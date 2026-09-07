@@ -648,7 +648,7 @@ p {
 }
 
 .product-item:hover img {
-  transform: scale(1.2);
+  transform: scale(0.85);
 }
 
 .product-item {
@@ -776,7 +776,7 @@ p {
 }
 
 .product-ghexanh {
-  height: clamp(220px, 28vw, 480px);
+  height: clamp(320px, 40vw, 580px);
 }
 
 .product-depxanh {
