@@ -1,0 +1,54 @@
+<svg width="176" height="23" viewBox="0 0 176 23" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M175 1V22H1V1H175Z" fill="url(#pattern0_74_2766)" stroke="url(#pattern3_74_2766)" stroke-width="2"/>
+<defs>
+<pattern id="pattern0_74_2766" patternUnits="userSpaceOnUse" patternTransform="matrix(9 0 0 6 2 2)" preserveAspectRatio="none" viewBox="0 0 9 6" width="1" height="1">
+<g id="pattern0_74_2766_inner">
+<pattern id="pattern1_74_2766" patternUnits="userSpaceOnUse" patternTransform="matrix(0.399999 0 0 0.399999 0 0)" preserveAspectRatio="none" viewBox="0 0 1.33333 1.33333" width="1" height="1">
+<use xlink:href="#pattern1_74_2766_inner" transform="translate(-1.33333 0)"/>
+<g id="pattern1_74_2766_inner">
+<path d="M0 0H0.666666V0.666666H0V0Z" fill="#F741A7"/>
+<path d="M0.666666 0.666666H1.33333V1.33333H0.666666V0.666666Z" fill="#F741A7"/>
+<path d="M0.666666 0H1.33333V0.666666H0.666666V0Z" fill="white"/>
+<path d="M0 0.666666H0.666666V1.33333H0V0.666666Z" fill="white"/>
+</g>
+</pattern><path d="M0 0H2.25V6H0V0Z" fill="url(#pattern1_74_2766)"/>
+<path d="M2.25 0H4.5V6H2.25V0Z" fill="white"/>
+<path d="M6.75 0H9V6H6.75V0Z" fill="white"/>
+<pattern id="pattern2_74_2766" patternUnits="userSpaceOnUse" patternTransform="matrix(0.399999 0 0 0.399999 0 0)" preserveAspectRatio="none" viewBox="0 0 1.33333 1.33333" width="1" height="1">
+<use xlink:href="#pattern2_74_2766_inner" transform="translate(-1.33333 0)"/>
+<g id="pattern2_74_2766_inner">
+<path d="M0 0H0.666666V0.666666H0V0Z" fill="#008AE5"/>
+<path d="M0.666666 0.666666H1.33333V1.33333H0.666666V0.666666Z" fill="#008AE5"/>
+<path d="M0.666666 0H1.33333V0.666666H0.666666V0Z" fill="white"/>
+<path d="M0 0.666666H0.666666V1.33333H0V0.666666Z" fill="white"/>
+</g>
+</pattern><path d="M4.5 0H6.75V6H4.5V0Z" fill="url(#pattern2_74_2766)"/>
+</g>
+</pattern><pattern id="pattern3_74_2766" patternUnits="userSpaceOnUse" patternTransform="matrix(176 0 0 6 0 0)" preserveAspectRatio="none" viewBox="0 0 176 6" width="1" height="1">
+<g id="pattern3_74_2766_inner">
+<pattern id="pattern4_74_2766" patternUnits="userSpaceOnUse" patternTransform="matrix(321 0 0 61.5 0 0)" preserveAspectRatio="none" viewBox="0 0 214 41" width="1" height="1">
+<g id="pattern4_74_2766_inner">
+<pattern id="pattern5_74_2766" patternUnits="userSpaceOnUse" patternTransform="matrix(-8 0 0 42 214 0)" preserveAspectRatio="none" viewBox="0 0 4 21" width="1" height="1">
+<g id="pattern5_74_2766_inner">
+<path d="M0 0H3V21H0V0Z" fill="url(#paint0_linear_74_2766)"/>
+<path d="M3 0H4V21H3V0Z" fill="url(#paint1_radial_74_2766)"/>
+<path d="M0 0H4V1.5H2H0V0Z" fill="url(#paint2_linear_74_2766)"/>
+</g>
+</pattern><path d="M214 0H0V37C0 39.2091 1.79086 41 4 41H210C212.209 41 214 39.2091 214 37V0Z" fill="url(#pattern5_74_2766)"/>
+</g>
+</pattern><rect width="176" height="6" fill="url(#pattern4_74_2766)"/>
+</g>
+</pattern><linearGradient id="paint0_linear_74_2766" x1="1.5" y1="0" x2="1.5" y2="21" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#008AE5"/>
+</linearGradient>
+<radialGradient id="paint1_radial_74_2766" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(3.5 10.5) rotate(90) scale(10.5 0.5)">
+<stop stop-color="#4D75D2"/>
+<stop offset="1" stop-color="white"/>
+</radialGradient>
+<linearGradient id="paint2_linear_74_2766" x1="0" y1="1.05" x2="4" y2="1.05" gradientUnits="userSpaceOnUse">
+<stop stop-color="#70EAE4"/>
+<stop offset="1" stop-color="#008AE5"/>
+</linearGradient>
+</defs>
+</svg>

@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Portfolio Assets/appreciation post"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "NewPortfolio"
+	}
+}
