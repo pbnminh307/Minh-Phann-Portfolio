@@ -803,9 +803,8 @@ p {
 }
 
 .banquee-title {
-  
   width: 100%;
-  height: var(--title-h);
+  min-height: var(--title-h);
   background-image: url("banquee-title.svg");
   background-repeat: no-repeat;
   background-size: 100% 150%;
@@ -814,7 +813,7 @@ p {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  z-index:99;
+  z-index: 99;
 }
 
 .shop-title {
