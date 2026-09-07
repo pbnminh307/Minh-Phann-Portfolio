@@ -36,6 +36,10 @@ body {
   cursor: none;
 }
 
+*, a, button, input, textarea, select, label, [role="button"] {
+  cursor: none !important;
+}
+
 .site {
   min-width: 1280px;
 }
@@ -816,7 +820,7 @@ p {
 }
 
 .shop-title {
-  width: clamp(620px, 70vw, 1100px);
+  width: clamp(620px, 85vw, 1100px);
   height: auto;
   transition: filter 0.3s ease;
 }
