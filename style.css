@@ -462,7 +462,7 @@ p {
   font-size: clamp(20px, 1.6vw, 28px);
   color: var(--color-white);
   letter-spacing: -0.5px;
-  padding-left: clamp(500px, 5.6vw, 720px);
+  padding-left: clamp(200px, 4.6vw, 720px);
   padding-bottom: clamp(60px, 1vw, 90px);
 }
 
@@ -817,7 +817,7 @@ p {
 }
 
 .shop-title {
-  width: clamp(520px, 65vw, 1100px);
+  width: clamp(520px, 55vw, 1100px);
   height: auto;
   transition: filter 0.3s ease;
 }
@@ -839,7 +839,7 @@ p {
 .shop-tagline {
   margin: 0;
   font-family: "Hong Ky", "Arial Narrow Local", Arial, sans-serif;
-  font-size: clamp(30px, 3vw, 50px);
+  font-size: clamp(30px, 2vw, 50px);
   letter-spacing: 0.5px;
   color: var(--color-purple);
   -webkit-text-stroke: clamp(2px, 1.8vw, 3px) var(--color-white);
