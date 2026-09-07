@@ -598,8 +598,8 @@ p {
 .left-branch {
   position: absolute;
   left: 0;
-  top: 0;
-  height: clamp(180px, 30vh, 420px);
+  top: -200px;
+  height: 150%;
   width: auto;
   z-index: 2;
   pointer-events: none;
@@ -610,8 +610,8 @@ p {
 .right-branch {
   position: absolute;
   right: 0;
-  top: 0;
-  height: clamp(180px, 30vh, 420px);
+  top: -200px;
+  height: 150%;
   width: auto;
   z-index: 2;
   pointer-events: none;
