@@ -776,7 +776,7 @@ p {
 }
 
 .product-ghexanh {
-  height: clamp(320px, 40vw, 580px);
+  height: clamp(220px, 28vw, 480px);
 }
 
 .product-depxanh {
