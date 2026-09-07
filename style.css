@@ -817,7 +817,7 @@ p {
 }
 
 .shop-title {
-  width: clamp(760px, 90vw, 1600px);
+  width: clamp(520px, 65vw, 1100px);
   height: auto;
   transition: filter 0.3s ease;
 }
