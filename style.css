@@ -637,7 +637,6 @@ p {
   display: flex;
   align-items: flex-end;
   justify-content: center;
-  gap: clamp(24px, 3vw, 80px);
 }
 
 .products img {
