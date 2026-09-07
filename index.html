@@ -130,8 +130,14 @@
 
   <div class="cursor-fx"></div>
   <script>
-    document.addEventListener('click', () => {
+    document.addEventListener('click', (e) => {
       new Audio('Clicksound.wav').play();
+
+      const link = e.target.closest('a[href]');
+      if (link && link.target !== '_blank' && !link.href.startsWith('mailto:') && !link.getAttribute('href').startsWith('#') && link.origin === window.location.origin) {
+        e.preventDefault();
+        setTimeout(() => { window.location.href = link.href; }, 150);
+      }
     });
 
     const cursorFx = document.querySelector('.cursor-fx');
