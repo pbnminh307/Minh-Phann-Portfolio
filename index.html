@@ -129,6 +129,10 @@
 
   <div class="cursor-fx"></div>
   <script>
+    document.addEventListener('click', () => {
+      new Audio('Clicksound.wav').play();
+    });
+
     const cursorFx = document.querySelector('.cursor-fx');
     window.addEventListener('mousemove', (e) => {
       cursorFx.style.left = e.clientX + 'px';
